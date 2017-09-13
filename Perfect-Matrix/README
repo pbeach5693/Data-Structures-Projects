@@ -1,0 +1,1 @@
+This program allow the user to enter the size of a mxn matrix where m = n and performs a number of operations on said matrix such as: calculating the sums of the rows, columns, and diagonals. Finding the perfect number, and determining if the matrix is perfect or not.
