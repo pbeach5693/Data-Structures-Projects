@@ -1,0 +1,6 @@
+This program displays a menu on the screen allowing the user to enter a
+choice to enter the size of an array or to terminate the program
+After the user enters an array size of greater than 4, then an array
+of random numbers greater than 25, but less than 500, will be generated.
+The array will then be passed through a few recursive functions to sort,
+or determine various properties of said array.
