@@ -1,0 +1,11 @@
+ This program displays a hashed array of size thirty, where half the numbers
+ will be set at -1, which is equivalent to nothing, and the other half
+ being random in the range of 100 and 500.  The array will then be displayed to
+ the user along with a menu giving the user four options: 1. To display the
+ generated array(again), 2. To search the hashed array for a number, 3. To
+ insert a new number into the array via the hashing function, 4. To delete an
+ existing number from the hashed array, or 5. To end the program, and at the
+ same time, listing off some statistical data such as the number of times each
+ position in the hashed array was probed, and the number of times a collision
+ occurred, and it's respective location.  After this, the program will give
+ the users signatures, and promptly terminate.
