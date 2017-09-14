@@ -1,0 +1,1 @@
+This program takes input from the user for a stack and queue to be compared.  The program checks to see if the stack and queue have the same elements in the same position and if the sizes are equal. Then it checks the first stack to see if (,{,[,<,>,],},) are all matching correctly.  This process continues until the user terminates the program.
